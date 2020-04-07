@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node9">
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="常在-陳府" datetime="" description="VR360攝影作品展示" copyright="" tags="" author="Zegapain" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="陽台" target="" pan="-18.3111" skinid="" url="{node3}" id="Point01" tilt="-0.738381"/>
+      <hotspot title="玄關" target="" pan="-69.7605" skinid="" url="{node8}" id="Point02" tilt="2.4024"/>
+      <hotspot title="餐桌" target="" pan="-107.313" skinid="" url="{node6}" id="Point03" tilt="-2.56517"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0128 Panorama_o_0.jpg" prev5url="images/DSC_0128 Panorama_o_preview_5.jpg" prev4url="images/DSC_0128 Panorama_o_preview_4.jpg" prev3url="images/DSC_0128 Panorama_o_preview_3.jpg" prev2url="images/DSC_0128 Panorama_o_preview_2.jpg" prev1url="images/DSC_0128 Panorama_o_preview_1.jpg" prev0url="images/DSC_0128 Panorama_o_preview_0.jpg" tile5url="images/DSC_0128 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0128 Panorama_o_4.jpg" tile3url="images/DSC_0128 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0128 Panorama_o_2.jpg" tile1url="images/DSC_0128 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0128 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0128 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0128 Panorama_o_1600_4.jpg" tile3url="images/DSC_0128 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0128 Panorama_o_1600_2.jpg" tile1url="images/DSC_0128 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="餐桌" target="" pan="47.72" skinid="" url="{node6}" id="Point01" tilt="11.6937"/>
+      <hotspot title="主臥室" target="" pan="-43.36" skinid="" url="{node4}" id="Point02" tilt="5.70263"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0042 Panorama_o_0.jpg" prev5url="images/DSC_0042 Panorama_o_preview_5.jpg" prev4url="images/DSC_0042 Panorama_o_preview_4.jpg" prev3url="images/DSC_0042 Panorama_o_preview_3.jpg" prev2url="images/DSC_0042 Panorama_o_preview_2.jpg" prev1url="images/DSC_0042 Panorama_o_preview_1.jpg" prev0url="images/DSC_0042 Panorama_o_preview_0.jpg" tile5url="images/DSC_0042 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0042 Panorama_o_4.jpg" tile3url="images/DSC_0042 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0042 Panorama_o_2.jpg" tile1url="images/DSC_0042 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0042 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0042 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0042 Panorama_o_1600_4.jpg" tile3url="images/DSC_0042 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0042 Panorama_o_1600_2.jpg" tile1url="images/DSC_0042 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="客廳" target="" pan="-13.0847" skinid="" url="{node9}" id="Point01" tilt="1.75635"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0063 Panorama_o_0.jpg" prev5url="images/DSC_0063 Panorama_o_preview_5.jpg" prev4url="images/DSC_0063 Panorama_o_preview_4.jpg" prev3url="images/DSC_0063 Panorama_o_preview_3.jpg" prev2url="images/DSC_0063 Panorama_o_preview_2.jpg" prev1url="images/DSC_0063 Panorama_o_preview_1.jpg" prev0url="images/DSC_0063 Panorama_o_preview_0.jpg" tile5url="images/DSC_0063 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0063 Panorama_o_4.jpg" tile3url="images/DSC_0063 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0063 Panorama_o_2.jpg" tile1url="images/DSC_0063 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0063 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0063 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0063 Panorama_o_1600_4.jpg" tile3url="images/DSC_0063 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0063 Panorama_o_1600_2.jpg" tile1url="images/DSC_0063 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="臥室" target="" pan="145.834" skinid="" url="{node2}" id="Point01" tilt="8.57331"/>
+      <hotspot title="餐桌" target="" pan="22.1782" skinid="" url="{node6}" id="Point02" tilt="-4.47499"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0079 Panorama_o_0.jpg" prev5url="images/DSC_0079 Panorama_o_preview_5.jpg" prev4url="images/DSC_0079 Panorama_o_preview_4.jpg" prev3url="images/DSC_0079 Panorama_o_preview_3.jpg" prev2url="images/DSC_0079 Panorama_o_preview_2.jpg" prev1url="images/DSC_0079 Panorama_o_preview_1.jpg" prev0url="images/DSC_0079 Panorama_o_preview_0.jpg" tile5url="images/DSC_0079 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0079 Panorama_o_4.jpg" tile3url="images/DSC_0079 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0079 Panorama_o_2.jpg" tile1url="images/DSC_0079 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0079 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0079 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0079 Panorama_o_1600_4.jpg" tile3url="images/DSC_0079 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0079 Panorama_o_1600_2.jpg" tile1url="images/DSC_0079 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="書房" target="" pan="-37.7784" skinid="" url="{node7}" id="Point01" tilt="-0.792868"/>
+      <hotspot title="臥室" target="" pan="14.6652" skinid="" url="{node2}" id="Point02" tilt="-2.21748"/>
+      <hotspot title="客廳" target="" pan="-109.19" skinid="" url="{node9}" id="Point03" tilt="-3.10636"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0092 Panorama_o_0.jpg" prev5url="images/DSC_0092 Panorama_o_preview_5.jpg" prev4url="images/DSC_0092 Panorama_o_preview_4.jpg" prev3url="images/DSC_0092 Panorama_o_preview_3.jpg" prev2url="images/DSC_0092 Panorama_o_preview_2.jpg" prev1url="images/DSC_0092 Panorama_o_preview_1.jpg" prev0url="images/DSC_0092 Panorama_o_preview_0.jpg" tile5url="images/DSC_0092 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0092 Panorama_o_4.jpg" tile3url="images/DSC_0092 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0092 Panorama_o_2.jpg" tile1url="images/DSC_0092 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0092 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0092 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0092 Panorama_o_1600_4.jpg" tile3url="images/DSC_0092 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0092 Panorama_o_1600_2.jpg" tile1url="images/DSC_0092 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="餐桌" target="" pan="24.3372" skinid="" url="{node6}" id="Point01" tilt="-4.60824"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0120 Panorama_o_0.jpg" prev5url="images/DSC_0120 Panorama_o_preview_5.jpg" prev4url="images/DSC_0120 Panorama_o_preview_4.jpg" prev3url="images/DSC_0120 Panorama_o_preview_3.jpg" prev2url="images/DSC_0120 Panorama_o_preview_2.jpg" prev1url="images/DSC_0120 Panorama_o_preview_1.jpg" prev0url="images/DSC_0120 Panorama_o_preview_0.jpg" tile5url="images/DSC_0120 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0120 Panorama_o_4.jpg" tile3url="images/DSC_0120 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0120 Panorama_o_2.jpg" tile1url="images/DSC_0120 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0120 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0120 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0120 Panorama_o_1600_4.jpg" tile3url="images/DSC_0120 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0120 Panorama_o_1600_2.jpg" tile1url="images/DSC_0120 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="客廳" target="" pan="143.781" skinid="" url="{node9}" id="Point01" tilt="-7.67641"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DSC_0132 Panorama_o_0.jpg" prev5url="images/DSC_0132 Panorama_o_preview_5.jpg" prev4url="images/DSC_0132 Panorama_o_preview_4.jpg" prev3url="images/DSC_0132 Panorama_o_preview_3.jpg" prev2url="images/DSC_0132 Panorama_o_preview_2.jpg" prev1url="images/DSC_0132 Panorama_o_preview_1.jpg" prev0url="images/DSC_0132 Panorama_o_preview_0.jpg" tile5url="images/DSC_0132 Panorama_o_5.jpg" tilesize="3000" tile4url="images/DSC_0132 Panorama_o_4.jpg" tile3url="images/DSC_0132 Panorama_o_3.jpg" tilescale="1.003333" tile2url="images/DSC_0132 Panorama_o_2.jpg" tile1url="images/DSC_0132 Panorama_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/DSC_0132 Panorama_o_1600_0.jpg" screensize="1600" tile5url="images/DSC_0132 Panorama_o_1600_5.jpg" tilesize="1600" tile4url="images/DSC_0132 Panorama_o_1600_4.jpg" tile3url="images/DSC_0132 Panorama_o_1600_3.jpg" tilescale="1.003333" tile2url="images/DSC_0132 Panorama_o_1600_2.jpg" tile1url="images/DSC_0132 Panorama_o_1600_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
